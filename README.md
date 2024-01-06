@@ -2,5 +2,6 @@
 ## Data
 ### Example
 - [ex1](./data/example.md)
+- [ex2](./data/example2.md)
 ### Q1
 - [1-1](./data/1-1.md)
