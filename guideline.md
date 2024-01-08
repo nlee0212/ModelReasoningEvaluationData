@@ -95,4 +95,4 @@
 - **반복 (Repetition)**: 이전 문장에서 이미 언급된 정보를 반복해서 언급하는 경우.
 - **기타 (etc.)**: 위 항목 중에는 없지만 다른 종류의 오류를 범하고 있는 경우. 가능하다면 본인이 생각하는 오류를 적어주세요.
 
-작업 예시 확인: [https://www.notion.so/b1fa926a8e9440268c74eb06044316b4?pvs=4#1f49392e4a08425a9b9196fc51ea82af](https://www.notion.so/b1fa926a8e9440268c74eb06044316b4?pvs=4#1f49392e4a08425a9b9196fc51ea82af)
+작업 예시 확인: [노션 페이지](https://secretive-bronze-324.notion.site/b1fa926a8e9440268c74eb06044316b4?pvs=4)
